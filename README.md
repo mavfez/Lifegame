@@ -5,7 +5,7 @@ El proyecto está organizado de la siguiente manera:
 
 Rais: applications\lifegame
 
-- gui: Aquí se encuentran dos aplicaciones que funcionan como la interfaz gráfica de la librería principal o core, una es por          consola y otra es html5. En la de consola encontrarán los fuente y los comnandos de compilación y ejecución; en la de           html encontrarán una aplicación básica para empezar a trabajar las historias de usuario o epic que se dispongan.
+- gui: Aquí se encuentran 3 aplicaciones que funcionan como la interfaz gráfica de la librería principal o core, una es por          consola, otra es html5 y la otra es JavaServer Face. En la de consola encontrarán los fuente y los comnandos de compilación      y ejecución; en la de html5 encontrarán una aplicación básica para empezar a trabajar las historias de usuario o epic que       se dispongan pero solo en HTML5, En la aplicación JaveServer Faces encontrarán un proyecto netbeans para tranajar toda la       parte web en java. Hay que asociarle la librería core.
 
 - lib: Aquí encontrarán los fuentes de la librería principal o core del juego de la vida, también están los comandos de                compilación y de ejecución de las pruebas.
 
