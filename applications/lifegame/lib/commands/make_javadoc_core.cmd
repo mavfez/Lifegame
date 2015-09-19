@@ -1,1 +1,0 @@
-javadoc -d D:\codingdojotsi\lifegame\javadoc\core -sourcepath D:\codingdojotsi\lifegame\src com.tsi.lifegame.core
