@@ -1,0 +1,6 @@
+# language setting
+language: java
+
+# version numbers, testing against two versions of node
+jdk:
+	- oraclejdk8
